@@ -66,4 +66,4 @@ client.on('message', (message) => {
     }
 });
 
-client.login('NzM3MzA3NTU3NTIwOTk4NTMy.Xx7dLA.SrDOarzESzmRrRhaJmTfssYMwac');
+client.login('my-key');
